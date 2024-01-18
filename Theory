@@ -1,0 +1,6 @@
+Tags are not case sensitive but value is case sensitive.
+
+Tag:- angular brackets which has name in it. Tag tells the browser to display the content. 
+Paired tag->  tag which has separate opening tag and separate closing tag
+Unpaired tag-> tag which doesn’t have separate closing tag
+
